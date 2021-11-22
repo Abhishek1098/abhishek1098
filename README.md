@@ -5,31 +5,31 @@
 
 ### Projects 🙇
 
-#### RagerPromotions
+#### <ins>RagerPromotions</ins>
 
-#### (Celo)
+#### <ins>(Celo)</ins>
 
-#### Scorigami
+#### <ins>Scorigami</ins>
 
-#### (Modzy) 
+#### <ins>(Modzy)</ins> 
 
-#### Gofer 
+#### <ins>Gofer</ins> 
 *[Abhishek1098/gofer](https://github.com/Abhishek1098/gofer)*
 Android app to share requests about services in a local area. Created during HackUVA, this project focues on helping local communities find and provide services easily. The app allows you to upload tasks or requests that can be utilized or fulfilled. We based it off reddits slavelabour thread. r/slavelabour
 *[Devpost](https://devpost.com/software/gofer)* 
 
-#### Chopsticks 
+#### <ins>Chopsticks</ins> 
 *[shivenk78/chopsticks-online](https://github.com/shivenk78/chopsticks-online)*
 Play Chopsticks against a neural network AI using a Leap Motion gesture controller. Made for PennApps XVIII 2018.
 *[Devpost](https://devpost.com/software/o-o-o-o-o-o-o)* 
 
-#### Bestow 
+#### <ins>Bestow</ins> 
 *[Abhishek1098/Bestow](https://github.com/Abhishek1098/Bestow)*
 An Android app designed as a platform for people to give away things they no longer need to the less fortunate. It allows people to contact each other in order to arrange to pick up items from generous people in their area, and uses a machine learning image recognition database through the Clarifai API to automatically identify any pictures posted to the app.
 Winner of the "Best First Time Hack" award at HackMHS V.
 *[Devpost](https://devpost.com/software/bestow)* 
 
-#### ShopNScan 
+#### <ins>ShopNScan</ins>  
 *[Abhishek1098/ShopNScan](https://github.com/Abhishek1098/ShopNScan)*
 Scans barcodes of items at the store to get rid of long lines! Pay for your order conveniently with Venmo and never worry about long cashier lines again.
 Created for HackSB III 2019. Won 1st place.
