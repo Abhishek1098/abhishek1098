@@ -43,14 +43,17 @@ Created for **HackSB III 2019**. Won 1st place.
 ### Learning how to code 🚀
 -  Learning [SQL](https://github.com/Abhishek1098/SQL) with *PostgreSql*, *Azure*, *SQLiteStudio*
 - [Android Studios](https://github.com/Abhishek1098/Android-Studios) projects in *Java*
-- [Intro to web design](https://github.com/Abhishek1098/Intro-to-Web-Development-Project-Management) basics in *HTML*, *CSS*, *JS*
 - [Enterprise and Cloud Computing](https://github.com/Abhishek1098/Enterprise-and-Cloud-Computing). Created *.NET MVC* web applications and utilized *Azure*
-- Created games with the [Unity Game Engine](https://github.com/Abhishek1098/Unity-Game-Engine) and wrote scripts in *CS*
 - [Erlang](https://github.com/Abhishek1098/erlang)
-- Introduction to [Data Structures](https://github.com/Abhishek1098/Intro-Data-Structures) in *Java* Senior year of HS.
-- [Algorithms](https://github.com/Abhishek1098/Algorithms) in *C++*
-- [Systems Programming](https://github.com/Abhishek1098/Systems-Programming) in *C*
 - [Concurrent Programming](https://github.com/Abhishek1098/Concurrent-Programming) in *Java*
-- [Data Structures](https://github.com/Abhishek1098/Data-Structures) in *Java* at Stevens
 - Getting started with [React Native](https://github.com/Abhishek1098/). Using *Expo* to create cross compatible apps.
-
+- Using *Python* with *[MongoDB](https://github.com/Abhishek1098/PythonMangoDB)* to do database things.
+- Created games with the [Unity Game Engine](https://github.com/Abhishek1098/Unity-Game-Engine) and wrote scripts in *CS*
+- [Systems Programming](https://github.com/Abhishek1098/Systems-Programming) in *C*
+- [Algorithms](https://github.com/Abhishek1098/Algorithms) in *C++*
+- [Data Structures](https://github.com/Abhishek1098/Data-Structures) in *Java* at Stevens
+- [Intro to web design](https://github.com/Abhishek1098/Intro-to-Web-Development-Project-Management) basics in *HTML*, *CSS*, *JS*
+- [Introduction to Computer Science](https://github.com/Abhishek1098/Introduction-to-Computer-Science) in *Python*
+- Introduction to [Data Structures](https://github.com/Abhishek1098/Intro-Data-Structures) in *Java* Senior year of HS.
+- [Mobile App Development](https://github.com/Abhishek1098/Android-Studios) with *Android Studios* and *Java* Junior year of HS.
+- [AP Computer Science A](https://github.com/Abhishek1098) in *Java* Sophmore year of HS.
