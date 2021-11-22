@@ -6,37 +6,42 @@
 ### Projects 🙇
 
 #### <ins>RagerPromotions</ins>
+*[RagerPromotions.com](https://www.ragerpromotions.com)*
 
-#### <ins>(Celo)</ins>
+#### <ins>Star NFTs</ins>
+Created for **Celo's Make Crypto Mobile Hackathon**.
 
 #### <ins>Scorigami</ins>
+*[Abhishek1098/Scorigami](https://github.com/Abhishek1098/Scorigami)*
 
-#### <ins>(Modzy)</ins> 
+#### <ins>Public Sentiment Tracker</ins>
+*[Abhishek1098/Modzy](https://github.com/Abhishek1098/modzy)*
+Created for **Modzy AI Hackathon**. I used the Text Sentiment A.I. model from Modzy to generate scores for each of the NYTimes Top Stories Comment Sections. Scores are broken down into positive, netural, negative and have values ranging from 0 to 1.
 
 #### <ins>Gofer</ins> 
 *[Abhishek1098/gofer](https://github.com/Abhishek1098/gofer)*
-Android app to share requests about services in a local area. Created during HackUVA, this project focues on helping local communities find and provide services easily. The app allows you to upload tasks or requests that can be utilized or fulfilled. We based it off reddits slavelabour thread. r/slavelabour
+Android app to share requests about services in a local area. Created during **HackUVA**, this project focues on helping local communities find and provide services easily. The app allows you to upload tasks or requests that can be utilized or fulfilled. We based it off reddits slavelabour thread. r/slavelabour
 *[Devpost](https://devpost.com/software/gofer)* 
 
 #### <ins>Chopsticks</ins> 
 *[shivenk78/chopsticks-online](https://github.com/shivenk78/chopsticks-online)*
-Play Chopsticks against a neural network AI using a Leap Motion gesture controller. Made for PennApps XVIII 2018.
+Play Chopsticks against a neural network AI using a Leap Motion gesture controller. Made for **PennApps XVIII 2018**.
 *[Devpost](https://devpost.com/software/o-o-o-o-o-o-o)* 
 
 #### <ins>Bestow</ins> 
 *[Abhishek1098/Bestow](https://github.com/Abhishek1098/Bestow)*
 An Android app designed as a platform for people to give away things they no longer need to the less fortunate. It allows people to contact each other in order to arrange to pick up items from generous people in their area, and uses a machine learning image recognition database through the Clarifai API to automatically identify any pictures posted to the app.
-Winner of the "Best First Time Hack" award at HackMHS V.
+Winner of the "Best First Time Hack" award at **HackMHS V**.
 *[Devpost](https://devpost.com/software/bestow)* 
 
 #### <ins>ShopNScan</ins>  
 *[Abhishek1098/ShopNScan](https://github.com/Abhishek1098/ShopNScan)*
 Scans barcodes of items at the store to get rid of long lines! Pay for your order conveniently with Venmo and never worry about long cashier lines again.
-Created for HackSB III 2019. Won 1st place.
+Created for **HackSB III 2019**. Won 1st place.
 *[Devpost](https://devpost.com/software/shopnscan)*  
 
 ### Learning how to code 🚀
--  Learning [SQL](https://github.com/Abhishek1098/SQL) with *PostgreSql* and *Azure*
+-  Learning [SQL](https://github.com/Abhishek1098/SQL) with *PostgreSql*, *Azure*, *SQLiteStudio*
 - [Android Studios](https://github.com/Abhishek1098/Android-Studios) projects in *Java*
 - [Intro to web design](https://github.com/Abhishek1098/Intro-to-Web-Development-Project-Management) basics in *HTML*, *CSS*, *JS*
 - [Enterprise and Cloud Computing](https://github.com/Abhishek1098/Enterprise-and-Cloud-Computing). Created *.NET MVC* web applications and utilized *Azure*
@@ -46,4 +51,6 @@ Created for HackSB III 2019. Won 1st place.
 - [Algorithms](https://github.com/Abhishek1098/Algorithms) in *C++*
 - [Systems Programming](https://github.com/Abhishek1098/Systems-Programming) in *C*
 - [Concurrent Programming](https://github.com/Abhishek1098/Concurrent-Programming) in *Java*
+- [Data Structures](https://github.com/Abhishek1098/Data-Structures) in *Java* at Stevens
+- Getting started with [React Native](https://github.com/Abhishek1098/). Using *Expo* to create cross compatible apps.
 
