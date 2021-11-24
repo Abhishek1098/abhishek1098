@@ -1,10 +1,10 @@
-### Welcome to my GitHub 🌍🧑‍🎓
+# Welcome to my GitHub 🌍🧑‍🎓
 - 🦆 I'm a Computer Science major at Stevens Institute of Technology 
 - 😄 Pronouns: He/him
 - 🌐 You can find my website at [abhishek1098.github.io](abhishek1098.github.io) and connect with me at [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-383ba7191/)
 - ✍️ Follow me on twitter @[1098abhishek](https://twitter.com/1098abhishek)
 
-### Projects 🙇
+# Projects 🙇
 
 #### <ins>RagerPromotions</ins>
 *[RagerPromotions.com](https://www.ragerpromotions.com)*
@@ -41,7 +41,7 @@ Scans barcodes of items at the store to get rid of long lines! Pay for your orde
 Created for **HackSB III 2019**. Won 1st place.
 *[Devpost](https://devpost.com/software/shopnscan)*  
 
-### Learning how to code 🚀
+# Learning how to code 🚀
 -  Learning [SQL](https://github.com/Abhishek1098/SQL) with *PostgreSql*, *Azure*, *SQLiteStudio*
 - [Android Studios](https://github.com/Abhishek1098/Android-Studios) projects in *Java*
 - [Enterprise and Cloud Computing](https://github.com/Abhishek1098/Enterprise-and-Cloud-Computing). Created *.NET MVC* web applications and utilized *Azure*
