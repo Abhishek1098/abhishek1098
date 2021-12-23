@@ -9,15 +9,8 @@
 #### <ins>RagerPromotions</ins>
 *[RagerPromotions.com](https://www.ragerpromotions.com)*
 
-#### <ins>Star NFTs</ins>
-Created for **Celo's Make Crypto Mobile Hackathon**.
-
 #### <ins>Scorigami</ins>
 *[Abhishek1098/Scorigami](https://github.com/Abhishek1098/Scorigami)*
-
-#### <ins>Public Sentiment Tracker</ins>
-*[Abhishek1098/Modzy](https://github.com/Abhishek1098/modzy)*
-Created for **Modzy AI Hackathon**. I used the Text Sentiment A.I. model from Modzy to generate scores for each of the NYTimes Top Stories Comment Sections. Scores are broken down into positive, netural, negative and have values ranging from 0 to 1.
 
 #### <ins>Gofer</ins> 
 *[Abhishek1098/gofer](https://github.com/Abhishek1098/gofer)*
