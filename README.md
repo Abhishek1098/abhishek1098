@@ -2,7 +2,6 @@
 - 🦆 I'm a Computer Science major at Stevens Institute of Technology 
 - 😄 Pronouns: He/him
 - 🌐 You can find my website at [abhishek1098.github.io](https://abhishek1098.github.io/) and connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-383ba7191/)
-- ✍️ Follow me on twitter @[1098abhishek](https://twitter.com/1098abhishek)
 
 # Projects 🙇
 
