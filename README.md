@@ -5,7 +5,7 @@
 # Projects 🙇
 
 #### <ins>RagerPromotions</ins>
-*[RagerPromotions.com](https://www.ragerpromotions.com)*
+Created the website *[RagerPromotions.com](https://www.ragerpromotions.com)*. Working on creating mobile app, launching in April, 2022!
 
 #### <ins>Scorigami</ins>
 *[Abhishek1098/Scorigami](https://github.com/Abhishek1098/Scorigami)*
